@@ -16,4 +16,6 @@ mask=32
 ip route del $gateway/$mask
 
 sudo ip addr flush dev $interface
+
+update_cache()
 ```
