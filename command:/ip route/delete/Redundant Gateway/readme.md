@@ -1,3 +1,6 @@
+# Delete Redundant Gateway
+If you have a server with a 2nd "Private" network, it can interfere with internet access!
+
 sch: https://www.google.com/search?q=ip+route+remove
 
 # guide:
