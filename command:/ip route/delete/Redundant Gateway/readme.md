@@ -10,3 +10,7 @@ sch: https://www.google.com/search?q=linux+ip+route+delete+default+gateway
 
 # source:
 Remove duplicate route:
+```
+interface=enp7s0
+sudo ip route del default dev $interface
+```
