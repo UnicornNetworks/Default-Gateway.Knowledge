@@ -1,2 +1,2 @@
 - https://askubuntu.com/questions/1298995/default-gateway-route-being-automatically-added-to-main-table
-- 
+- https://www.thomas-krenn.com/en/wiki/Two_Default_Gateways_on_One_System
