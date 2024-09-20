@@ -1,0 +1,8 @@
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    {{ this_interface }}:
+      dhcp4: true
+      dhcp4-overrides:
+        use-routes: {{ dhcp4_overrides_use_routes }}
