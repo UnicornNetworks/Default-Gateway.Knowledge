@@ -1,0 +1,2 @@
+- https://askubuntu.com/questions/1298995/default-gateway-route-being-automatically-added-to-main-table
+- 
